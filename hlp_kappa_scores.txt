@@ -1,0 +1,2 @@
+Validation Cohen's Kappa: 0.6272493573264781
+Test Cohen's Kappa: 0.3437450949615445

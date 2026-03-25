@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+.venv/
+
+# Model files (IMPORTANT)
+saved_model/
+
+# OS
+.DS_Store
+desktop.ini
